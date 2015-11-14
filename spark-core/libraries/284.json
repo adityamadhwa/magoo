@@ -1,0 +1,7 @@
+{
+  "name": "particle-photon-LSM303-library",
+  "author": "aditya <test@gmail.co>",
+  "license": "GPL v3",
+  "version": "0.0.1",
+  "description": "Adafruit lsm303 Library for use with Particle Photon"
+}
